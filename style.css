@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-image: url(images/Без\ имени-2.png);
+    width: 1600px;
+    height: 2140px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+.container{
+    width: 1020px;
+    height: 2050px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.row{
+    width: 954px;
+    margin: 0 auto;
+}
+.header{
+    margin-top: 28px;
+}
+.h{
+    margin-top: 15px;
+    float: left;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #3d9bdd;
+}
+.fleft{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.text{
+    font-family: sans-serif;
+    margin-top: 15px;
+    width: 400px;
+    font-size: 14px;  
+    color: #72c02c
+}
+.hleft{
+    width: 470px;
+    float: left;
+}
+.location{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #4c4c4c;
+    float: left;
+    margin-top: 28px;
+    margin-left: 38px;
+    width: 215px;
+}
+.number{
+    font-family: "Myriad Pro";
+    font-size: 20px;
+    font-weight: bold;
+    color: #4c4c4c;
+    float: left;
+    margin-top: 28px;
+    margin-left: 38px;
+    width: 200  =px;
+}
+.menu{
+    margin-top: 30px;
+    height: 70px;
+    background-color: #3d9bdd;
+    margin-bottom: 20px;
+}
+.menu ul li{
+    font-size: 15px;
+    font-family: "Myriad Pro";   
+    float: left;
+    color: #fff;
+    list-style: none;
+    line-height: 70px;
+    padding: 0 18px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.row2{
+    width: 500px;
+    margin: 0 auto;
+}
+.menu ul li:hover{
+    background-color: #0081bb;
+    transition: all .3s;
+}
+.images{
+    width: 955px;
+    height: 408px;
+    background-color: #3d9bdd;
+    margin-bottom: 35px;
+}
+
+.image1{
+    margin-top: 17px;
+    float: left;
+    margin: 0 11px;
+    margin-top: 17px;
+}
+.image2{
+    margin-top: 17px;
+    margin-right: 11px;
+    float: left;
+}
+.image3{
+    margin-top: 17px;
+    float: left;
+    margin-bottom: 8px;
+}
+.image4{
+    float: left;
+    margin-right: 11px; 
+}
+.image5{
+    float: left;
+}
+
+.button{
+    width: 30px;
+    height: 30px;
+    background-color: #72c02c;
+    text-align: center;
+    color: #fff;
+    margin-top: 28px;
+    line-height: 32px;
+    margin-left: 19px;
+    float: left;
+    font-weight: bolder;
+}
+.textimages{
+    font-size: 14px;
+    font-family: "Myriad Pro";
+    float: left;
+    color: #fff;
+    word-wrap: break-word;
+    width: 730px;
+    margin: 0 34px;
+    margin-top: 28px    ;
+}
+.butsend{
+    width: 250px;
+    height: 20px;
+    background-color: #3d9bdd;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 15px 20px;
+    padding-right: 0;
+    font-family: "Myriad pro";
+    float: left;
+}
+.icon{
+    float: right;
+    margin-right: 20px;
+}
+.iconimg{
+    float: left;
+    background-color: #72c02c;
+    line-height: 50px;
+    width: 50px;
+}
+.input1 input{
+    width: 570px;
+    height: 50px;
+    font-size: 14px;
+    line-height: 50px;
+    color: #373737;
+    float: left;
+    outline: none;
+    border: 0px solid;
+    padding-left: 23px;
+    background-color: #fafafa;
+    box-shadow: inset 0 0   1px #999;
+    margin-left: 36px;
+    margin-bottom: 33px;
+}
+.input1{
+    margin-left: 36px;
+}
+.menu2{
+    width: 270px;
+    height: 440px;
+    background-color: #72c02c;
+}
+.menu2 ul li{
+    padding: 13px 10px;
+    border-bottom: 1px solid #8ecd56;
+    font-size: 14px;
+    color: #fff;
+    list-style: none;
+
+    transition: all .2s;
+}
+.menu2 ul li:hover{
+    background-color: #3d9bdd;
+    margin-left: 15px;
+}
+.textbox{
+    margin-top: 32px;
+    width: 270px;
+    height: 536px;
+    background-color: #0081bb;
+}
+.headert{
+    margin-top: 8px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Myriad Pro";
+    color: #fff;
+    padding: 22px 0;
+    border-bottom: 1px solid #80c0dd;
+}
+.textboxrow{
+    width:226px;
+    margin: 0 auto;
+}
+.txt{
+    font-size: 14px;
+    font-family: Arial;
+    color: #fff;
+    margin-top: 25px;
+    line-height: 27px;
+}
+.roundimg{
+    width: 315px;
+    height: 283px;
+    background-color: #f8f8f8;
+    float: left;
+    margin-bottom: 23px;
+    color: #0081bb;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+
+    transition: all .1s;
+}
+.roundimg:hover{
+    color: #72c02c;
+
+}
+.roundimg img{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 22px;
+}
+
+.minus{
+    margin-left: 305px;
+    margin-top: -1010px;
+}   
+.mar1{
+    margin-right: 15px;
+}
+.infoH{
+    font-size: 24px;
+    color: #0f0f0f;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+.infotext{
+    color: #3b3b3b;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 25px;
+}
+.footer{
+    background-color: #1b2831;
+    height: 90px;
+    margin-top: 136px;
+}
+.copy{
+    font-size: 12px;
+    line-height: 90px;
+    color: #fff;
+    margin-right: 60px;
+    float: left;
+}
+.icons .set{
+    font-size: 12px;
+    line-height: 90px;
+    color: #fff;
+    float: left;
+}
+.icons a{
+    float: left;
+    text-decoration: none;
+    line-height: 90px;
+    margin-left: 8px;
+}
+.number2{
+    color: #fff;
+    font-size: 15px;
+}
+.raqam{
+    margin-top: 45px;
+}
+.number2 a{
+    float: left;
+    margin-left: 80px;
+}
+.number2 .raqam{
+    margin-top: 28px ;
+    float: left;
+}
+.copyright{
+    margin-left: 60px;
+    font-size: 12px;
+    line-height: 90px;
+    color: #fff;
+    float: left;
+}
